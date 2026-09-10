@@ -2,7 +2,7 @@
 
 A record-keeping and automation system built for a poultry farm client, designed to answer one question instantly: **is the farm making profit or running at a loss?**
 
-> Note: This repository contains screenshots and selected code snippets only. The full workbook is a paid deliverable and is not distributed here. For inquiries about a custom version for your business, see [Contact](obiekweemmanuel@gmail.com)
+> Note: This repository contains screenshots and selected code snippets only. The full workbook is a paid deliverable and is not distributed here. For inquiries about a custom version for your business, see [Contact](obiekweemmanuel08@gmail.com)
 
 ---
 
